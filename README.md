@@ -6,7 +6,7 @@ Version: 1.0
 
 ## Description
 
-This GitHub Actions workflow automates Node.js CI/CD for a Node.js project. It performs the following steps:
+This repository demonstrates how to set up and run Node.js tests using GitHub Actions/Workflow for seamless Continuous Integration (CI). By following the steps outlined below, you can automate the testing process, ensuring the reliability and quality of your Node.js applications.
 
 ### Step 1: Check out the source code
 
